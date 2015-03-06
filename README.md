@@ -3,6 +3,20 @@ node-perceptualdiff
 
 A node port of the perceptualdiff image comparison (http://pdiff.sourceforge.net) with some additional features
 
+[![Build Status](https://img.shields.io/travis/preceptorjs/perceptualdiff.svg)](http://travis-ci.org/preceptorjs/perceptualdiff)
+[![Coveralls Coverage](https://img.shields.io/coveralls/preceptorjs/perceptualdiff.svg)](https://coveralls.io/r/preceptorjs/perceptualdiff)
+[![Code Climate Grade](https://img.shields.io/codeclimate/github/preceptorjs/perceptualdiff.svg)](https://codeclimate.com/github/preceptorjs/perceptualdiff)
+
+[![NPM version](https://badge.fury.io/js/perceptualdiff.svg)](https://www.npmjs.com/package/perceptualdiff)
+[![NPM License](https://img.shields.io/npm/l/perceptualdiff.svg)](https://www.npmjs.com/package/perceptualdiff)
+
+[![NPM](https://nodei.co/npm/perceptualdiff.png?downloads=true&stars=true)](https://www.npmjs.com/package/perceptualdiff)
+[![NPM](https://nodei.co/npm-dl/perceptualdiff.png?months=3&height=2)](https://www.npmjs.com/package/perceptualdiff)
+
+[![Coverage Report](https://img.shields.io/badge/Coverage_Report-Not_Available-red.svg)](http://preceptorjs.github.io/perceptualdiff/coverage/lcov-report/)
+[![API Documentation](https://img.shields.io/badge/API_Documentation-Not_Available-red.svg)](http://preceptorjs.github.io/perceptualdiff/docs/)
+
+[![Gitter Support](https://img.shields.io/badge/Support-Gitter_IM-yellow.svg)](https://gitter.im/preceptorjs/support)
 
 #Usage:
 
